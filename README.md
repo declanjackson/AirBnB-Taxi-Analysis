@@ -182,10 +182,11 @@ The final dataset contained approximately 14 million rows, with each
 trip having 14 different features. Choosing credit card trips was the
 most notable cause of reduction, reducing the data set by 29%.
 
+| ![Distribution of trip duration before cleaning](plots/distance_pre_box.png)| ![Distribution of trip duration beforecleaning](plots/duration_pre_box.png) |
+|:---:|:---:|
+| Figure 1: Distribution of trip distance before cleaning| Figure 2: Distribution of trip duration before cleaning |
 
-![Distribution of trip duration beforecleaning](plots/distance_pre_box.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Distribution of trip duration beforecleaning](plots/duration_pre_box.png)
 
-*Figure 1: Distribution of trip distance before cleaning* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Figure 2: Distribution of trip duration before cleaning*
 
 AirBnB Dataset
 --------------
@@ -336,9 +337,10 @@ classification, the following procedure was followed:
 The parameter of the decision tree classifier `max_depth` was then
 fine-tuned (Figure 13) and the final model was obtained.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Accuracy of Decision Tree classifier for different values of max depth](plots/error_matrix.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Accuracy of Decision Tree classifier for different values of max depth](plots/DT_accuracy.png)
+| ![Accuracy of Decision Tree classifier for different values of max depth](plots/error_matrix.png)| ![Accuracy of Decision Tree classifier for different values of max depth](plots/DT_accuracy.png) |
+|:---:|:---:|
+| Figure 12: Confusion matrix for DT with depth = 15| Figure 13: Accuracy of DT for different values of max depth |
 
-*Figure 12: Confusion matrix for DT with depth = 15*  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Figure 13: Accuracy of DT for different values of max depth*
 
 Results
 -------
