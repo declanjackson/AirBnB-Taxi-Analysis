@@ -293,17 +293,17 @@ more profitable.
 ![Sankey diagram summarising the movement of taxis between
 boroughs](plots/sankey.png)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Figure 9: Sankey diagram summarising the movement of taxis between boroughs*
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Figure 9: Sankey diagram summarising the movement of taxis between boroughs*
 
 ![Sankey diagram excluding trips which start and end in
 Manhattan](plots/sankey_exc.png)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Figure 10: Sankey diagram excluding trips which start and end in Manhattan*
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Figure 10: Sankey diagram excluding trips which start and end in Manhattan*
 
 ![Correlation heat map between model attributes (excluding encoded
 location attributes)](plots/correlation.png)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Figure 11: Correlation heat map between model attributes (excluding encoded location attributes)*
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Figure 11: Correlation heat map between model attributes (excluding encoded location attributes)*
 
 Statistical Modelling
 =====================
